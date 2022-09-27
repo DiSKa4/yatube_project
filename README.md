@@ -8,14 +8,24 @@ Django Framework
 HTML
 CSS
 
-# Запуск проекта в dev-режиме
-Разверните виртуальное окружение python -m venv venv.
+## Запуск проекта в dev-режиме
+
+Разверните виртуальное окружение 
+
+    python -m venv venv.
+    
 Активируйте виртуальное окружение.
+
+    source venv/Scripts/activate
+    
 Установите зависимости
-pip install -r requirements.txt.
+
+    pip install -r requirements.txt.
 В папке с файлом manage.py выполните команду запуска dev-сервера:
-python3 manage.py runserver.
+
+    python3 manage.py runserver.
+
 Для остановки dev-сервера нажми Ctrl+C или Ctrl + Break.
 
-# Автор
+## Автор
 Андрей Алексеевич
