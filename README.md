@@ -18,4 +18,4 @@ python3 manage.py runserver.
 Для остановки dev-сервера нажми Ctrl+C или Ctrl + Break.
 
 # Автор
-Дмитрий
+Андрей Алексеевич
